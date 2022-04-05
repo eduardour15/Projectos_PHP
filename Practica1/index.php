@@ -21,8 +21,9 @@
                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                     <a class="dropdown-item" href="Ejemplo1.php">Ejemplo1</a>
                     <a class="dropdown-item" href="Ejemplo3-4.php">Ejemplo2</a>
-                    <a class="dropdown-item" href="">Ejemplo3</a>
+                    <a class="dropdown-item" href="TablaMultiplicar.php">Tabla de Multiplicar</a>
                     <a class="dropdown-item" href="">Ejemplo4</a>
+
                 </div>
             </div>
         </nav>
